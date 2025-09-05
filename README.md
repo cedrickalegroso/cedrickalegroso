@@ -38,7 +38,7 @@ Started coding HTML in Grade 5 (~11 years old) and haven't stopped since... 😉
  ![Made with Firebase, Angular, Flutter](https://img.shields.io/badge/Made%20with-Firebase%20%7C%20Angular%20%7C%20Flutter-blue) ![status: archived](https://img.shields.io/badge/status-archived-red) 
   - A bike-renting and sharing app for Iloilo City, built with Flutter + Firebase.  
   - Aimed at empowering the city’s growing biking community. 
-  - PS. I developed two More Apps while doing my college helping my batchmates haha (The whole system)
+  - PS: While working on this thesis, I also built two additional apps to help my batchmates — ended up developing the whole system for them 😅.
 
 ### [DSC CPU Web Portfolio](https://github.com/cedrickalegroso/Project-Tunton-Space-Apps-2019) 2021 – *Google Developer Clubs CPU* 
 ![Vanilla HTML | Powered by Firebase](https://img.shields.io/badge/Vanilla%20HTML%20%7C%20Powered%20by-Firebase-FFCA28?logo=firebase&logoColor=black)
